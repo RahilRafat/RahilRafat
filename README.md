@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahilrafat" alt="rahilrafat" /></a> </p>
 
-- 🌱 I’m currently learning **python(Djungo)**
+- 🌱 I’m currently learning **python(Djِango)**
 
 - 📫 How to reach me **rahilrafat8@gmail.com**
 
